@@ -52,7 +52,7 @@
     "@solana/wallet-adapter-react-ui": "^0.9.18",
     "@solana/wallet-adapter-solflare": "^0.6.18",
     "@solana/wallet-adapter-backpack": "^0.1.9",
-    "@solana/web3.js": "^1.43.4",
+    "@solana/web3.js": "^1.22.1",
     "@strata-foundation/fungible-entangler": "^3.11.2",
     "@strata-foundation/marketplace-sdk": "^3.11.2",
     "@strata-foundation/react": "^3.11.2",
