@@ -24,7 +24,7 @@
     "prebuild": "npm run clean && npm run package"
   },
   "dependencies": {
-    "@solana/web3.js": "^1.43.4",
+    "@solana/web3.js": "^1.22.1",
     "@strata-foundation/spl-token-bonding": "^3.11.2",
     "@strata-foundation/spl-token-collective": "^3.11.2",
     "@strata-foundation/spl-utils": "^3.11.2",
