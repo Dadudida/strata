@@ -37,7 +37,7 @@
     "@solana/spl-token-registry": "^0.2.2130",
     "@solana/wallet-adapter-base": "^0.9.18",
     "@solana/wallet-adapter-react": "^0.15.20",
-    "@solana/web3.js": "^1.43.4",
+    "@solana/web3.js": "^1.22.1",
     "@strata-foundation/accelerator": "^3.11.1",
     "@strata-foundation/fungible-entangler": "^3.11.2",
     "@strata-foundation/spl-token-bonding": "^3.11.2",
